@@ -1,0 +1,97 @@
+
+h1
+{
+    text-align: center;
+    text-transform: capitalize;
+    border-radius: 10px;
+    border: 2px solid rgb(41, 3, 3);
+    color: rgb(41, 3, 3);
+    background-color:rgb(153, 208, 245);
+    
+
+}
+.barnav 
+
+{
+    background-color: rgb(153, 208, 245);
+    padding: 5px;
+    margin: 5pt;
+    height: 5pc;
+
+    
+    
+    
+    
+    
+
+
+}
+
+
+
+
+
+.menu{
+    margin: 100px;
+    padding: 50px;
+    font-size: 30px;
+    color: rgb(41, 3, 3);
+    text-decoration-line: none;
+    
+    
+    
+
+}
+
+
+a{
+    font-size: 15px;
+    text-align:center;
+    
+}
+    
+
+.titre
+{
+    text-align: center;
+    color:black;
+    background-color:blue;
+    border: 2px solid black;
+    
+
+
+}
+
+h2{
+    background-color:royalblue;
+
+}
+h6{
+    font-size: 10px;
+    color: seashell;
+}
+select{
+    font-size: large;
+    background-color:blue;
+    color:black;
+    border: 2px solid black;
+}  
+    
+    body{
+        background-color: royalblue;
+    }
+table{
+    font-size: 30px;
+
+}
+.a{
+    text-align: center;
+    color: rgb(41, 3, 3);
+    font-size: 15px;
+}
+pied{
+    font-size: 20px;
+
+
+
+}
